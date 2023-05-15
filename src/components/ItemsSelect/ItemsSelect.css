@@ -1,0 +1,24 @@
+.item-select label{
+    display: block;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    margin-bottom: .5rem;
+}
+
+.item-select select{
+    width: 100%;
+    background-color: #ffffff;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    padding: 1.5rem;
+    border: none;
+    outline-color: #6278F7;
+    font-size: 16px;
+
+}
+
+select:invalid 
+{ 
+    color: rgb(255, 0, 0); 
+}

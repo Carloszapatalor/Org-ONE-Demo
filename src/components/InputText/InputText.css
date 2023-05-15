@@ -1,0 +1,30 @@
+.InputText{
+    margin: 1.5rem 0;
+    
+    font-family: 'Monserrat', sans-serif;
+}
+
+.InputText label{
+    font-family: 'Monserrat', sans-serif;
+    font-size: 1.125rem;
+    font-weight: 600;
+    display: block;
+    margin-bottom: .5rem;
+}
+
+.InputText input{
+    width: 100%;
+    background: #FFFFFF;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    border: none;
+    padding: 1.875rem 1.25rem;
+    outline-color: #6278F7;
+    font-size: 1rem;
+    box-sizing: border-box;
+}
+
+.InputText-color input{
+    height: 2.5rem;
+    padding: .3125rem 1.25rem;
+
+}
